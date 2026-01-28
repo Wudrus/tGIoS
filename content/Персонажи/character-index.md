@@ -5,6 +5,7 @@ title: Персонажи
 - [[Wudrus|Вудрус]]
 - [[Tom|Том]]
 - [[Koshak|Кошак]]
+- [[Raven|Рэйвен]]
 # Персонажи историй
 ## Wudrus Adaptation
 - [[Fedvise|Фэдвайз]]
