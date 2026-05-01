@@ -6,6 +6,7 @@ title: Персонажи
 - [[Tom|Том]]
 - [[Koshak|Кошак]]
 - [[Raven|Рэйвен]]
+- [[Neo|Нео]]
 # Персонажи историй
 ## Wudrus Adaptation
 - [[Fedvise|Фэдвайз]]
