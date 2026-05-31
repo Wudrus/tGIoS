@@ -1,10 +1,7 @@
 ---
 title: Главная
 ---
-![[GG.png]]
-
-Я скоро сделаю отдельную иконку, обещаю.
-
+![[tGIoS.png]]
 # Добро пожаловать в *поражающий* мир The Great Interweave of Silence™
 ## [[character-index|Персонажи]]
 ## [[world-index|Мир]]
