@@ -1,7 +1,7 @@
 ---
 title: Главная
 ---
-![[tGIoS.png]]
+![[tGIoS-icon.png]]
 # Добро пожаловать в *поражающий* мир The Great Interweave of Silence™
 ## [[character-index|Персонажи]]
 ## [[world-index|Мир]]
