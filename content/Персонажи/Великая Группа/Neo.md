@@ -3,7 +3,7 @@ draft: false
 title: Нео
 ---
 <div>
-<img src="renderNeo.gif" style="float:right">
+<img src="renderNeo.gif" style="float:right;width:350px">
 
 # Био
 *Имя*: Нео05ТВ (Норберт.Единое.Оливия.Попытка-05.Транслирующая.Видеопамять.)  
