@@ -2,7 +2,7 @@
 title: Вудрус
 ---
 <div>
-<img src="Wudrus Cut.png" style="float:right;width:325px">
+<img src="renderWudrus.gif" style="float:right;width:325px">
 
 # БИО
 *Имя (ИФО)*: Вудрус Ренвер Вильтер (Wudrus Renver Wilter)  
