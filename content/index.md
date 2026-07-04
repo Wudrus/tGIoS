@@ -3,12 +3,11 @@ title: Главная
 ---
 ![[tGIoS-icon.png]]
 # Добро пожаловать в *поражающий* мир The Great Interweave of Silence™
-## [[character-index|Персонажи]]
-## [[world-index|Мир]]
-## [[misc-index|Прочее]]
-
+[[character-index|Персонажи]] | [[world-index|Мир]] | [[misc-index|Прочее]] | [[server|Майнкрафт сервер]]
 
 ># Change Log
+>## UPD11
+>Появление ответвления "Майнкрафт сервер"
 >## UPD10
 >Теперь на сайте также пишутся все обновления. Вы читаете это прямо сейчас.
 >## UPD9
