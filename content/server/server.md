@@ -1,5 +1,5 @@
 ---
 title: "Майнкрафт сервер"
 ---
-
-[[chronology|Хронология сборок]]
+- [[chronology|Хронология сборок]]  
+- [[great-origins|Great Origins]]
