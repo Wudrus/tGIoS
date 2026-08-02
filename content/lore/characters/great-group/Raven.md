@@ -1,5 +1,5 @@
 ---
-title: Рэйвен
+title: Great Group - Рэйвен
 ---
 <div>
 <img src="renderRaven.gif" style="float:right">

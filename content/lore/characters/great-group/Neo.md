@@ -1,6 +1,5 @@
 ---
-draft: false
-title: Нео
+title: Great Group - Нео
 ---
 <div>
 <img src="renderNeo.gif" style="float:right;width:350px">

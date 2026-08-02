@@ -1,5 +1,5 @@
 ---
-title: Том
+title: Great Group - Том
 ---
 <div>
 <img src="renderTom.gif" style="float:right">

@@ -1,5 +1,5 @@
 ---
-title: Вудрус
+title: Great Group - Вудрус
 ---
 <div>
 <img src="renderWudrus.gif" style="float:right">

@@ -1,5 +1,5 @@
 ---
-title: Кошак
+title: Great Group - Кошак
 ---
 <div>
 <img src="renderKoshakRegret.gif" style="float:right">

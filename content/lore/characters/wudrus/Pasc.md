@@ -1,5 +1,5 @@
 ---
-title: Паск
+title: Вудрус - Паск
 ---
 **Имя**: Паск Мискет  
 **Ключ**: Pathetic Scam, Miscalculation Metric  
