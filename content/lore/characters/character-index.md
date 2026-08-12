@@ -2,7 +2,7 @@
 title: Персонажи
 ---
 Великая Группа (Great Group):
-- [[Wudrus|Вудрус]]
+- [[content/lore/characters/great-group/Wudrus|Вудрус]]
 - [[Tom|Том]]
 - [[Koshak|Кошак]]
 - [[Raven|Рэйвен]]
