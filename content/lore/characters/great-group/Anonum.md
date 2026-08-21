@@ -1,5 +1,5 @@
 ---
-title: Great Group - Анонум Моретти
+title: Great Group - Анонум
 ---
 <div>
 <img src="renderTom.gif" style="float:right">
