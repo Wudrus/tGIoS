@@ -2,7 +2,7 @@
 title: Great Group - Кошак
 ---
 <div>
-<img src="renderKoshakRegret.gif" style="float:right">
+<img src="renderKoshakLoR.gif" style="float:right">
 
 # БИО
 *Имя (ИФ)*: Кошак Шимеров  
