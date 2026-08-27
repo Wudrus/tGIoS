@@ -8,7 +8,10 @@ title: "Хронология сборок"
 - Скачана из интернета и дополнена Вудрусом.
 - Покемоны.
 - [[renver-logs-cobblemons|Логи Ренвера - Cobblemons]]
+- [[events-diary-raven-cobblemons| Дневник Событий (Рэйвен) - Cobblemons]]
 
 # 2. Техно-Магия N-Gen
 - Ничего необычного.
 - Чертолёт делает *бржбдыщ*.
+- [[renver-logs-techmag-n|Логи Ренвера - Техно-Магия N-Gen]]
+- [[events-diary-raven-techmag-n| Дневник Событий (Рэйвен) - Техно-Магия N-Gen]]

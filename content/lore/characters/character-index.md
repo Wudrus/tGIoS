@@ -5,7 +5,7 @@ title: Персонажи
 - [[Wudrus|Вудрус]]
 - [[Anonum|Анонум]]
 - [[Koshak|Кошак]]
-- [[Raven|Рэйвен]]
+- [[content/lore/characters/great-group/Raven|Рэйвен]]
 - [[Neo|Нео]]
 - [[Ugol|Уголь]]
 
