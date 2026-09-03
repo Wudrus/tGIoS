@@ -7,7 +7,7 @@ title: Главная
 
 >[!note] Change Log
 >- UPD 18 (Без объявления)
->	- Начало написания Grand Hazrd.
+>	- Начало написания Grand Hazard.
 >- UPD 17
 >	- Добавлены новые [[chronology|записи по сборкам]].
 >- UPD 16.1
