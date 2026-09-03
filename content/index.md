@@ -6,6 +6,8 @@ title: Главная
 [[character-index|Персонажи]] | [[world-index|Мир]] | [[misc-index|Прочее]] | [[server|Майнкрафт сервер]]
 
 >[!note] Change Log
+>- UPD 18 (Без объявления)
+>	- Начало написания Grand Hazrd.
 >- UPD 17
 >	- Добавлены новые [[chronology|записи по сборкам]].
 >- UPD 16.1
