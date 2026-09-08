@@ -6,6 +6,8 @@ title: Главная
 [[character-index|Персонажи]] | [[world-index|Мир]] | [[misc-index|Прочее]] | [[server|Майнкрафт сервер]]
 
 >[!note] Change Log
+>- UPD 19
+>	- Завершена 1 Глава [[Grand Hazard]].
 >- UPD 18.4 (Без объявления)
 >	- Первая глава [[Grand Hazard]] готова приблезительно на 70-80%.
 >- UPD 18.3 (Без объявления)
