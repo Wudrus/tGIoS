@@ -7,7 +7,7 @@ title: Главная
 
 >[!note] Change Log
 >- UPD 19.1
->	- Добавлены статьи показанных персонажей [[Grand Hazard]].
+>	- Добавлены статьи показанных [[character-gh|персонажей Grand Hazard]].
 >	- Небольшая реструктуризация [[character-index|Персонажей]].
 >- UPD 19
 >	- Завершена 1 Глава [[Grand Hazard]].
