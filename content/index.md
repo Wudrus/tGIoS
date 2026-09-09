@@ -6,6 +6,9 @@ title: Главная
 [[character-index|Персонажи]] | [[world-index|Мир]] | [[misc-index|Прочее]] | [[server|Майнкрафт сервер]]
 
 >[!note] Change Log
+>- UPD 19.1
+>	- Добавлены статьи показанных персонажей [[Grand Hazard]].
+>	- Небольшая реструктуризация [[character-index|Персонажей]].
 >- UPD 19
 >	- Завершена 1 Глава [[Grand Hazard]].
 >- UPD 18.4 (Без объявления)

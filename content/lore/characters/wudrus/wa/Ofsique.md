@@ -1,5 +1,5 @@
 ---
-title: Вудрус - Мистер Офсикью
+title: Wudrus Adaptation - Мистер Офсикью
 ---
 **Имя**: Фикат Офсикью  
 **Ключ**: Fixed Attitude, Sick Of You  

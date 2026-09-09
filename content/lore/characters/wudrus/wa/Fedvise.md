@@ -1,5 +1,5 @@
 ---
-title: Вудрус - Фэдвайз
+title: Wudrus Adaptation - Фэдвайз
 ---
 **Имя**: Фэдвайз Грандсмит  
 **Ключ**: Friend Wise, Grand Smith  

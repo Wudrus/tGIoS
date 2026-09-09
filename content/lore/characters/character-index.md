@@ -13,7 +13,5 @@ title: Персонажи
 - Нео
 	- [[Kairy|Кайри]]
 - Вудрус
-	- [[Fedvise|Фэдвайз]]
-	- [[Ofsique|Мистер Офсикью]]
-	- [[Pasc|Паск]]
-	- [[Wilter|Вильтер]]
+	- [[character-wa|Wudrus Adaptation]]
+	- [[character-gh|Grand Hazard]]

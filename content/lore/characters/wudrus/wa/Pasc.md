@@ -1,5 +1,5 @@
 ---
-title: Вудрус - Паск
+title: Wudrus Adaptation - Паск
 ---
 **Имя**: Паск Мискет  
 **Ключ**: Pathetic Scam, Miscalculation Metric  
