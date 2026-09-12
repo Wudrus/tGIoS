@@ -6,6 +6,10 @@ title: Главная
 [[character-index|Персонажи]] | [[world-index|Мир]] | [[misc-index|Прочее]] | [[server|Майнкрафт сервер]]
 
 >[!note] Change Log
+>- UPD 20
+>	- Обновлена статья [[Raven|Рэйвен]]
+>	- Добавлена страница игрока [[player-raven|Рэйвен]]
+>	- Обновлена страница игрока [[player-wudrus|Вудрус]]
 >- UPD 19.1
 >	- Добавлены статьи показанных [[character-gh|персонажей Grand Hazard]].
 >	- Небольшая реструктуризация [[character-index|Персонажей]].
