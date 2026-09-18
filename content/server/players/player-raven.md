@@ -21,4 +21,8 @@ title: Рэйвен
 Многое количество идей как для лора, мемов, артов, анимации. Но реализовать их не спешит.  
 Короче говоря, хуй с горы.
 
+
+«Если меня не станет,в них вы найдёте частичку меня»  
+![[raven-player-pic.png]]
+
 <p style="font-size:8px;text-align:right"><img src="https://i.redd.it/z1gd2kwa4a361.jpg" style="width:16px;vertical-align:middle">Кар</p>
