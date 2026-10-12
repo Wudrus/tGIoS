@@ -7,4 +7,4 @@ title: Прочее
 - [[Grand Hazard]]
 
 ---
-- [[Survey Results|Результаты опроса]]
+- [[index-survey|Опрос]]
