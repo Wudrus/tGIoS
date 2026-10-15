@@ -2,10 +2,10 @@
 title: Персонажи
 ---
 Великая Группа (Great Group):
-- [[content/lore/characters/great-group/Wudrus|Вудрус]]
+- [[lore/characters/great-group/Wudrus|Вудрус]]
 - [[Anonum|Анонум]]
 - [[Koshak|Кошак]]
-- [[content/lore/characters/great-group/Raven|Рэйвен]]
+- [[lore/characters/great-group/Raven|Рэйвен]]
 - [[Neo|Нео]]
 - [[Ugol|Уголь]]
 

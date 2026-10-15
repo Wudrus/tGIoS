@@ -4,6 +4,9 @@ title: Great Group - Вудрус
 <div>
 <img src="renderWudrus2.gif" style="float:right">
 
+>"Абсолюта не существует.... Скорее всего."  
+> \- Вудрус, Great Group
+
 # БИО
 *Имя (ИФО)*: Вудрус Ренвер Вильтер (Wudrus Renver Wilter)  
 *Место рождения (Гос-во, район, поселение)*: Пентатека, Гирпанк, Круснер  
